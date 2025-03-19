@@ -4,7 +4,7 @@
 ---
 
 ## 📌 **Overview**  
-This repository serves as a centralized platform for managing and enhancing the performance of placement training programs at **LPU** and **Executive Education Programs** (including BSc).  
+This repository serves as a centralized platform for managing and enhancing the performance of placement training programs at **universities** and **Executive Education Programs** (including online programs).  
 
 ### 🔥 **Why This Repository?**  
 ➡️ Structured training to increase foundational knowledge, technical skills, and placement success.  
